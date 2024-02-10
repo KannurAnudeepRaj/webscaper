@@ -1,4 +1,3 @@
-```markdown
 # Web Scraper
 
 A Python web scraper using BeautifulSoup and requests for extracting data from websites. Easily adaptable and customizable for various scraping needs.
