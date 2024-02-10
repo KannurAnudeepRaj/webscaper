@@ -34,6 +34,3 @@ Ensure compliance with websites' terms of service. Respect `robots.txt` and lega
 ## Contributing
 
 Found issues or want to contribute? Feel free to open an issue or submit a pull request.
-```
-
-Feel free to modify it according to your specific requirements or additional information you want to include.
