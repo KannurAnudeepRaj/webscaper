@@ -1,5 +1,3 @@
-Certainly! Here's the content for your GitHub README:
-
 ```markdown
 # Web Scraper
 
